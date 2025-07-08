@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Concerto di Musica Classica",
+      "short_description": "Un viaggio attraverso i capolavori della musica classica.",
+      "long_description": "Partecipa a una serata indimenticabile con le più belle composizioni di Mozart, Beethoven e Chopin, eseguite dall'Orchestra Filarmonica della città. Un'esperienza che arricchirà il tuo spirito.",
+      "date": "2025-08-05",
+      "time": "20:00",
+      "location": "Teatro dell'Opera",
+      "image": "https://dummyimage.com/600x400/8a7f70/ffffff&text=Concerto+di+Musica+Classica"
+    },
+    {
+      "id": "2",
+      "title": "Mostra d'Arte Contemporanea",
+      "short_description": "Esplora le ultime tendenze dell'arte moderna.",
+      "long_description": "Questa mostra presenta le opere di artisti emergenti e affermati, offrendo una panoramica sulle correnti attuali dell'arte contemporanea. Scopri dipinti, sculture e installazioni che sfidano le convenzioni e stimolano la riflessione.",
+      "date": "2025-08-12",
+      "time": "10:00",
+      "location": "Centro d'Arte Contemporanea",
+      "image": "https://dummyimage.com/600x400/cfd8dc/000000&text=Mostra+d'Arte+Contemporanea"
+    },
+    {
+      "id": "3",
+      "title": "Workshop di Fotografia",
+      "short_description": "Migliora le tue abilità fotografiche con professionisti del settore.",
+      "long_description": "Un workshop interattivo dedicato agli appassionati di fotografia di tutti i livelli. Impara nuove tecniche, esplora diversi stili e condividi la tua passione con altri fotografi sotto la guida di esperti del settore.",
+      "date": "2025-08-19",
+      "time": "15:00",
+      "location": "Accademia di Belle Arti",
+      "image": "https://dummyimage.com/600x400/546e7a/e0e0e0&text=Workshop+di+Fotografia"
+    },
+    {
+      "id": "4",
+      "title": "Festival del Cinema all'Aperto",
+      "short_description": "Vivi la magia del cinema sotto le stelle.",
+      "long_description": "Un'esperienza cinematografica unica all'aperto, dove potrai goderti alcuni dei migliori film dell'anno in un'atmosfera magica. Porta una coperta, scegli il tuo posto e lasciati trasportare dalle storie sul grande schermo.",
+      "date": "2025-08-26",
+      "time": "21:00",
+      "location": "Parco Centrale",
+      "image": "https://dummyimage.com/600x400/ffb74d/6d4c41&text=Festival+del+Cinema+all'Aperto"
+    },
+    {
+      "id": "5",
+      "title": "Serata di Poesia",
+      "short_description": "Ascolta le voci dei poeti contemporanei.",
+      "long_description": "Un'intima serata di lettura di poesie sotto le stelle, con la partecipazione di poeti locali e nazionali. Porta la tua poesia preferita o ascolta e lasciati ispirare dalle parole che risuonano nell'aria serale.",
+      "date": "2025-08-30",
+      "time": "19:00",
+      "location": "Caffè Letterario",
+      "image": "https://dummyimage.com/600x400/455a64/f5f5f5&text=Serata+di+Poesia"
+    },
+    {
+      "id": "6",
+      "title": "Maratona Notturna",
+      "short_description": "Corri sotto le stelle in questa maratona unica.",
+      "long_description": "Unisciti a noi per una maratona notturna attraverso i luoghi più suggestivi della città. Una corsa che unisce sport, divertimento e la magia della notte. Preparati a vivere un'esperienza di corsa come non hai mai fatto prima.",
+      "date": "2025-08-07",
+      "time": "22:00",
+      "location": "Parco Urbano",
+      "image": "https://dummyimage.com/600x400/7e57c2/b3e5fc&text=Maratona+Notturna"
+    },
+    {
+      "id": "7",
+      "title": "Fiera del Libro",
+      "short_description": "Scopri le ultime novità editoriali e incontra gli autori.",
+      "long_description": "La fiera del libro è il luogo ideale per gli amanti della lettura. Potrai trovare le ultime uscite editoriali, partecipare a incontri con gli autori e assistere a dibattiti e workshop sul mondo dell'editoria.",
+      "date": "2025-08-15",
+      "time": "10:00",
+      "location": "Centro Congressi Cittadino",
+      "image": "https://dummyimage.com/600x400/ffccbc/5d4037&text=Fiera+del+Libro"
+    },
+    {
+      "id": "8",
+      "title": "Torneo di Scacchi",
+      "short_description": "Metti alla prova la tua strategia in questo torneo di scacchi.",
+      "long_description": "Che tu sia un giocatore esperto o un principiante, il torneo di scacchi è aperto a tutti. Confrontati con altri appassionati e gioca per la possibilità di vincere premi e il titolo di campione del torneo.",
+      "date": "2025-08-18",
+      "time": "09:00",
+      "location": "Sala Giochi Comunale",
+      "image": "https://dummyimage.com/600x400/33691e/c5e1a5&text=Torneo+di+Scacchi"
+    },
+    {
+      "id": "9",
+      "title": "Corso di Cucina Vegetariana",
+      "short_description": "Impara a cucinare piatti vegetariani deliziosi e nutrienti.",
+      "long_description": "Questo corso è perfetto per chi vuole esplorare la cucina vegetariana. Imparerai a preparare piatti sani e gustosi, utilizzando ingredienti freschi e tecniche di cottura innovative. Porta l'arte della cucina vegetariana nella tua cucina.",
+      "date": "2025-08-22",
+      "time": "17:00",
+      "location": "Scuola di Cucina La Gourmet",
+      "image": "https://dummyimage.com/600x400/ef9a9a/263238&text=Corso+di+Cucina+Vegetariana"
+    },
+    {
+      "id": "10",
+      "title": "Esibizione di Danza Moderna",
+      "short_description": "Assisti a una performance mozzafiato di danza moderna.",
+      "long_description": "Compagnie di danza locali e internazionali saliranno sul palco per presentare le loro ultime coreografie. Un evento che celebra la bellezza e l'espressività del movimento umano attraverso la danza moderna.",
+      "date": "2025-08-29",
+      "time": "20:30",
+      "location": "Auditorium Cittadino",
+      "image": "https://dummyimage.com/600x400/80cbc4/004d40&text=Esibizione+di+Danza+Moderna"
+    }
+  ]
+}
